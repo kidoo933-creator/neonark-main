@@ -1,5 +1,5 @@
 {
-  "name": "guardianscan",
+  "name": "NeonArk",
   "version": "1.0.0",
   "description": "Personal cybersecurity assistant — data breach checker",
   "main": "server.js",
