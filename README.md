@@ -1,4 +1,4 @@
-# GuardianScan
+# NeonArk
 
 Personal cybersecurity assistant — check if your email, password, phone, username, IP, or domain has appeared in known data breaches.
 
